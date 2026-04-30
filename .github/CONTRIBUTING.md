@@ -10,7 +10,7 @@ TBD
 
 ### Git
 
-The branching and commit guidelines can be found [here](.github/Git.md)
+The branching and commit guidelines can be found [here](.github/GIT.md)
 
 ### Coding Style
 
